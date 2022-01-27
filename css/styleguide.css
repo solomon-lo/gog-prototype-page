@@ -1,0 +1,148 @@
+:root { 
+  --black: #000000;
+  --cape-cod: #414141;
+  --cape-cod-2: #434343;
+  --fuscous-gray: #565656;
+  --gray-nurse: #e8e8e8;
+  --p-blue: #3a5f7c;
+  --p-green: #5db641;
+  --p-green-2: #1a9b80;
+  --s-green: #c4de67;
+  --s-sky-blue: #bde1ec;
+  --white: #ffffff;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-avenir_next-bold: "Avenir Next-Bold", Helvetica;
+  --font-family-avenir_next-demibold: "Avenir Next-DemiBold", Helvetica;
+  --font-family-avenir_next-regular: "Avenir Next-Regular", Helvetica;
+  --font-family-gilroy-bold: "Gilroy-Bold", Helvetica;
+}
+.h1 {
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.h2 {
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.avenirnext-demi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-bold-white-20px {
+  font-family: var(--font-family-avenir_next-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-regular-normal-fuscous-gray-16px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-demi-bold-cape-cod-20px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-demi-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-regular-normal-cape-cod-14px {
+  color: var(--cape-cod-2);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-demi-bold-yellow-green-24px {
+  color: var(--s-green);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenirnext-demi-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-cape-cod-2 {
+  border: 1px solid var(--cape-cod-2);
+}

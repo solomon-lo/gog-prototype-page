@@ -1,0 +1,761 @@
+/* screen - team-profile-no-stats */
+
+.team-profile-no-stats {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1967px;
+  width: 1440px;
+}
+
+.team-profile-no-stats .untitled-design-container {
+  align-items: flex-start;
+  background-image: url(../img/banner@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 288px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 66px 37px;
+}
+
+.team-profile-no-stats .untitled-design-2 {
+  height: 71px;
+  object-fit: cover;
+  width: 56px;
+}
+
+.team-profile-no-stats .untitled-design-1 {
+  height: 71px;
+  margin-left: 24px;
+  object-fit: cover;
+  width: 56px;
+}
+
+.team-profile-no-stats .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 53.0px;
+  margin-top: 40px;
+  min-width: 1317px;
+}
+
+.team-profile-no-stats .group-container {
+  height: 1639px;
+  position: relative;
+  width: 878px;
+}
+
+.team-profile-no-stats .overlap-group11 {
+  height: 1639px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 878px;
+}
+
+.team-profile-no-stats .overlap-group7 {
+  height: 1639px;
+  left: 101px;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.team-profile-no-stats .line-2 {
+  height: 1639px;
+  left: 769px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.team-profile-no-stats .climate-solution-to {
+  height: 72px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 54px;
+  width: 410px;
+}
+
+.team-profile-no-stats .project-replacing-st {
+  height: 68px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 145px;
+  width: 393px;
+}
+
+.team-profile-no-stats .goal-we-strive-to-cr {
+  height: 83px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 239px;
+  width: 393px;
+}
+
+.team-profile-no-stats .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 28px;
+  left: 329px;
+  min-width: 92px;
+  padding: 5px 11px;
+  position: absolute;
+  top: 54px;
+}
+
+.team-profile-no-stats .trash-2 {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 2.0px;
+  width: 12px;
+}
+
+.team-profile-no-stats .waste {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.team-profile-no-stats .rocket-1 {
+  height: 228px;
+  left: 371px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 406px;
+}
+
+.team-profile-no-stats .rise-campaign-2021 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 320px;
+}
+
+.team-profile-no-stats .media-zone {
+  align-items: flex-start;
+  display: flex;
+  height: 439px;
+  left: 0;
+  min-width: 836px;
+  position: absolute;
+  top: 376px;
+}
+
+.team-profile-no-stats .unsplash-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 356px;
+  width: 250px;
+}
+
+.team-profile-no-stats .unsplash {
+  height: 166px;
+  width: 250px;
+}
+
+.team-profile-no-stats .unsplash4-bb2n-s-yuxx0 {
+  height: 166px;
+  margin-top: 24px;
+  width: 250px;
+}
+
+.team-profile-no-stats .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 27px;
+  min-height: 439px;
+  width: 559px;
+}
+
+.team-profile-no-stats .unsplash-container-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 559px;
+}
+
+.team-profile-no-stats .unsplash-ziml-f1xe-z8k {
+  height: 250px;
+  width: 166px;
+}
+
+.team-profile-no-stats .unsplash-xi-rjz-uk-ia-4 {
+  height: 250px;
+  margin-left: 29px;
+  width: 166px;
+}
+
+.team-profile-no-stats .unsplashp5-m-xt-yfgmmw {
+  height: 250px;
+  margin-left: 32px;
+  width: 166px;
+}
+
+.team-profile-no-stats .unsplashg0-p8rp-ih7xw {
+  height: 166px;
+  margin-top: 23px;
+  width: 250px;
+}
+
+.team-profile-no-stats .launch {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 12px;
+  min-height: 678px;
+  position: absolute;
+  top: 876px;
+  width: 819px;
+}
+
+.team-profile-no-stats .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 165px;
+  min-width: 758px;
+}
+
+.team-profile-no-stats .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 165px;
+  width: 460px;
+}
+
+.team-profile-no-stats .launch-adopt-a-spot {
+  letter-spacing: 0;
+  min-height: 42px;
+  width: 320px;
+}
+
+.team-profile-no-stats .overlap-group {
+  background-color: var(--p-green);
+  border-radius: 10px;
+  height: 112px;
+  margin-top: 11px;
+  position: relative;
+  width: 460px;
+}
+
+.team-profile-no-stats .project-name {
+  color: var(--white);
+  font-weight: 700;
+  left: 26px;
+  position: absolute;
+  top: 22px;
+}
+
+.team-profile-no-stats .brief-description {
+  left: 26px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 64px;
+  width: 157px;
+}
+
+.team-profile-no-stats .date {
+  align-items: center;
+  display: flex;
+  margin-bottom: 16px;
+  margin-left: 51px;
+  min-width: 247px;
+}
+
+.team-profile-no-stats .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--gray-nurse);
+  border-radius: 10px;
+  display: flex;
+  height: 91px;
+  min-width: 75px;
+  padding: 0 9px;
+}
+
+.team-profile-no-stats .jun-10 {
+  letter-spacing: 0;
+  min-height: 81px;
+  text-align: center;
+  width: 57px;
+}
+
+.team-profile-no-stats .span1 {
+  color: var(--black);
+  font-weight: 700;
+}
+
+.team-profile-no-stats .line-3 {
+  height: 1px;
+  margin-bottom: 5.0px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.team-profile-no-stats .ongoing {
+  height: 34px;
+  letter-spacing: 0;
+  margin-bottom: 5.0px;
+  margin-left: 11px;
+  text-align: center;
+  width: 99px;
+}
+
+.team-profile-no-stats .stats {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 19px;
+  min-width: 833px;
+}
+
+.team-profile-no-stats .overlap-group3 {
+  background-color: var(--p-blue);
+  border-radius: 10px;
+  height: 247px;
+  position: relative;
+  width: 191px;
+}
+
+.team-profile-no-stats .number {
+  color: var(--white);
+  font-weight: 700;
+  height: 60px;
+  left: 40px;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 104px;
+}
+
+.team-profile-no-stats .students-learned-abo {
+  height: 108px;
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  width: 162px;
+}
+
+.team-profile-no-stats .overlap-group1 {
+  background-color: var(--p-blue);
+  border-radius: 10px;
+  height: 205px;
+  margin-left: 17px;
+  position: relative;
+  width: 191px;
+}
+
+.team-profile-no-stats .number-1 {
+  color: var(--white);
+  font-weight: 700;
+  height: 60px;
+  left: 44px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 104px;
+}
+
+.team-profile-no-stats .students-participapted-in-the-campaign {
+  height: 108px;
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  width: 162px;
+}
+
+.team-profile-no-stats .overlap-group2 {
+  background-color: var(--p-blue);
+  border-radius: 10px;
+  height: 185px;
+  margin-left: 19px;
+  position: relative;
+  width: 191px;
+}
+
+.team-profile-no-stats .number-2 {
+  color: var(--white);
+  font-weight: 700;
+  height: 60px;
+  left: 42px;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 104px;
+}
+
+.team-profile-no-stats .spots-on-campus-adopted {
+  height: 108px;
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 162px;
+}
+
+.team-profile-no-stats .overlap-group4 {
+  background-color: var(--p-blue);
+  border-radius: 10px;
+  height: 294px;
+  margin-left: 17px;
+  position: relative;
+  width: 191px;
+}
+
+.team-profile-no-stats .number-3 {
+  color: var(--white);
+  font-weight: 700;
+  height: 60px;
+  left: 43px;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  width: 104px;
+}
+
+.team-profile-no-stats .pieces-of-litter-picked-up {
+  height: 108px;
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 162px;
+}
+
+.team-profile-no-stats .media-zone-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2px;
+  margin-top: 34px;
+  min-width: 815px;
+}
+
+.team-profile-no-stats .unsplash-fy-cjvy-pg9-pg {
+  height: 166px;
+  margin-left: 32px;
+  width: 251px;
+}
+
+.team-profile-no-stats .unsplash-fo-g7-pkn-yjp-m {
+  height: 166px;
+  margin-left: 32px;
+  width: 250px;
+}
+
+.team-profile-no-stats .group-5 {
+  align-items: center;
+  background-color: var(--p-green);
+  border-radius: 10px;
+  display: flex;
+  height: 72px;
+  left: 0;
+  min-width: 72px;
+  padding: 0 24px;
+  position: absolute;
+  top: 54px;
+}
+
+.team-profile-no-stats .check-circle {
+  height: 24px;
+  width: 24px;
+}
+
+.team-profile-no-stats .group-6 {
+  align-items: center;
+  background-color: var(--p-green);
+  border-radius: 10px;
+  display: flex;
+  height: 72px;
+  left: 0;
+  min-width: 72px;
+  padding: 0 24px;
+  position: absolute;
+  top: 143px;
+}
+
+.team-profile-no-stats .x24-various-lightbulb {
+  height: 24px;
+  width: 24px;
+}
+
+.team-profile-no-stats .group-7 {
+  align-items: center;
+  background-color: var(--p-green);
+  border-radius: 10px;
+  display: flex;
+  height: 72px;
+  left: 0;
+  min-width: 72px;
+  padding: 0 24px;
+  position: absolute;
+  top: 232px;
+}
+
+.team-profile-no-stats .star {
+  height: 24px;
+  width: 24px;
+}
+
+.team-profile-no-stats .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 26px;
+  margin-top: 12px;
+  min-height: 1586px;
+  width: 413px;
+}
+
+.team-profile-no-stats .team-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 398px;
+  width: 381px;
+}
+
+.team-profile-no-stats .flex-row-2 {
+  align-items: center;
+  display: flex;
+  min-width: 377px;
+}
+
+.team-profile-no-stats .about-us {
+  height: 41px;
+  letter-spacing: 0;
+  width: 196px;
+}
+
+.team-profile-no-stats .social-media {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 1.0px;
+  margin-left: 74px;
+  min-width: 107px;
+}
+
+.team-profile-no-stats .image-2 {
+  height: 24px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.team-profile-no-stats .image-4 {
+  height: 24px;
+  margin-left: 15px;
+  width: 24px;
+}
+
+.team-profile-no-stats .image-3 {
+  height: 24px;
+  margin-left: 15px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.team-profile-no-stats .rectangle-11 {
+  height: 182px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 377px;
+}
+
+.team-profile-no-stats .odio-libero-in-fusce {
+  height: 135px;
+  letter-spacing: 0;
+  margin-left: 4px;
+  margin-top: 20px;
+  width: 373px;
+}
+
+.team-profile-no-stats .take-action {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  margin-top: 61px;
+  min-height: 395px;
+  width: 385px;
+}
+
+.team-profile-no-stats .take-action-1 {
+  height: 41px;
+  letter-spacing: 0;
+  width: 196px;
+}
+
+.team-profile-no-stats .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--p-green-2);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 13px;
+  min-height: 341px;
+  padding: 21px 24px;
+  width: 377px;
+}
+
+.team-profile-no-stats .text-7 {
+  height: 36px;
+  letter-spacing: 0;
+  margin-left: 10px;
+  width: 200px;
+}
+
+.team-profile-no-stats .tell-cargill-to-stop {
+  align-self: flex-end;
+  color: var(--white);
+  font-weight: 700;
+  margin-top: 6px;
+  min-height: 135px;
+  width: 319px;
+}
+
+.team-profile-no-stats .overlap-group1-1 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 72px;
+  margin-left: 4.0px;
+  margin-top: 30px;
+  min-width: 249px;
+  padding: 0 19px;
+}
+
+.team-profile-no-stats .sign-petition {
+  height: 52px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 207px;
+}
+
+.team-profile-no-stats .team-history {
+  align-self: flex-start;
+  height: 41px;
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 67px;
+  width: 196px;
+}
+
+.team-profile-no-stats .overlap-group8 {
+  height: 96px;
+  position: relative;
+  width: 377px;
+}
+
+.team-profile-no-stats .date-1 {
+  align-items: center;
+  display: flex;
+  height: 81px;
+  left: 0;
+  min-width: 377px;
+  position: absolute;
+  top: 15px;
+}
+
+.team-profile-no-stats .overlap-group1-2 {
+  height: 81px;
+  position: relative;
+  width: 131px;
+}
+
+.team-profile-no-stats .rectangle-2 {
+  background-color: var(--gray-nurse);
+  border-radius: 10px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 131px;
+}
+
+.team-profile-no-stats .text {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 129px;
+}
+
+.team-profile-no-stats .line-3-1 {
+  height: 1px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 84px;
+}
+
+.team-profile-no-stats .overlap-group-3 {
+  height: 81px;
+  margin-left: 19px;
+  position: relative;
+  width: 131px;
+}
+
+.team-profile-no-stats .address {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.team-profile-no-stats .past-projects-container {
+  height: 332px;
+  margin-top: 23px;
+  position: relative;
+  width: 413px;
+}
+
+.team-profile-no-stats .past-projects {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 165px;
+}
+
+.team-profile-no-stats .past-projects-1 {
+  height: 316px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 413px;
+}
+
+.team-profile-no-stats .place {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 24px;
+  margin-top: 5px;
+  min-height: 30px;
+  width: 165px;
+}
+
+.team-profile-no-stats .unsplashdcl-p-et-m-vd-k8 {
+  height: 132px;
+  margin-right: 4.0px;
+  margin-top: 6px;
+  width: 369px;
+}
